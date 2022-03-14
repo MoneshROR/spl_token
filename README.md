@@ -1,4 +1,4 @@
 # spl_token
 public address of testnet
 
-CfrJ4X3pe3hsTshtsh1mvVPs8MUfSrssHvD5ho9UB8DB
+8z3PEBFvyP2qQPCEB3h3PJtugcfLEqLSEEJeA9orkmMj
